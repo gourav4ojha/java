@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class coordinates_lie {
+public class cordinates_lie {
 
     public static void main(String[] args) {
 
