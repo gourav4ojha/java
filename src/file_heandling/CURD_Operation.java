@@ -3,7 +3,7 @@ import java.io.*;
 
 public class CURD_Operation {
 
-    static String filePath = "example.txt";
+    static String filePath = "/Users/gourav/eclipse-workspace/practice_model_test/src/file_heandling/example.txt";
 
     // CREATE FILE
     public static void createFile() {
