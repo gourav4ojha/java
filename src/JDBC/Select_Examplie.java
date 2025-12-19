@@ -1,7 +1,7 @@
 package JDBC;
 import java.sql.*;
 
-public class SelectExample {
+public class Select_Examplie {
    static final String DB_URL = "jdbc:mysql://localhost/TUTORIALSPOINT";
    static final String USER = "guest";
    static final String PASS = "guest123";
