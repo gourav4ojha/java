@@ -10,7 +10,5 @@ public class factorial_compute {
 			compute *= i;
 		}
 		System.out.println(compute);
-
 	}
-
 }

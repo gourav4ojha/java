@@ -14,12 +14,8 @@ public class floting_array_short {
 		        }
 		    }
 		}
-
 		for (float x : arr) {
 		    System.out.print(x + " ");
 		}
-
-
 	}
-
 }
