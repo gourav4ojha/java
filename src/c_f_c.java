@@ -7,7 +7,7 @@ public class c_f_c {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the unit (C/F): ");
-        Char ch = sc.next().toUpperCase();
+        Char ch = sc.nextChar().toUpperCase();
 
         System.out.print("Enter the value: ");
         float num = sc.nextFloat();
